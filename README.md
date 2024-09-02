@@ -1,10 +1,10 @@
-# EcomVerse - Fullstack eCommerce App
+# VortexMarket - Fullstack eCommerce App
 
-Welcome to EcomVerse! This project is a complete, responsive eCommerce application built with the MERN stack. It utilizes React, Redux, Node.js, MongoDB, and Express to deliver a seamless and robust shopping experience.
+Welcome to VortexMarket! This project is a complete, responsive eCommerce application built with the MERN stack. It utilizes React, Redux, Node.js, MongoDB, and Express to deliver a seamless and robust shopping experience.
 
 ## Project Overview
 
-EcomVerse is designed to provide a modern eCommerce experience with a focus on responsiveness and user-friendliness. This application supports various features including product management, user authentication, and payment processing via Stripe.
+VortexMarket is designed to provide a modern eCommerce experience with a focus on responsiveness and user-friendliness. This application supports various features including product management, user authentication, and payment processing via Stripe.
 
 ## Technologies Used
 
